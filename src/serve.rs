@@ -9,7 +9,7 @@ pub async fn serve(port: u16) {
         push_message(
             Type::Error,
             "Make sure you're running `serve` in your blog's directory \
-            and the `public` directory has been generated.",
+            and the `public` directory has been generated, if not, use the `build` command.",
         );
         exit(1)
     }
