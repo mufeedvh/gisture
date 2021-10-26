@@ -2,7 +2,6 @@
 <h4 align="center">Utilizing GitHub Gists as a Blogging Platform</h4>
 <p align="center">
 	<img src="https://img.shields.io/badge/version-0.1.0-blue.svg" title="version" alt="version">
-	<a href="https://github.com/mufeedvh/gisture/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/mufeedvh/gisture.svg"></a>
 </p>
 
 A minimal and flexible blog generator based on GitHub Gists with SEO, Templating, Syntax Highlighting, and Metadata support out-of-the-box.
