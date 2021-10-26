@@ -1,0 +1,9 @@
+{
+  "github_username": "octocat",
+  "blog_title": "John Wick's Pencil",
+  "blog_description": "Rusty, I Guess.",
+  "blog_url": "https://blog.johnwickspencil.com/",
+  "pages_title": "{{ blog_title }} | John Wick's Pencil",
+  "minify_html": false,
+  "show_comments": true
+}
