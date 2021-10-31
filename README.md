@@ -42,7 +42,7 @@ Also GitHub's Markdown editor is pretty cool and gisture uses [pulldown-cmark](h
 
 ## Installation
 
-    $ cargo install --git https://github.com/mufeedvh/gisture
+    $ cargo install --git https://github.com/mufeedvh/gisture.git
     
 [Install Rust/Cargo](https://rust-lang.org/tools/install)
 
