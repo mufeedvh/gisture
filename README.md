@@ -85,6 +85,18 @@ Just running `serve` will open up the web server on a random free port.
 
 gisture uses Handlebars as it's templating engine. All you need to make/port a theme for your blog, are these files and a couple of template variables which are automatically generated upon initiation.
 
+### Screenshots
+
+Here are some screenshots of the basic starter template. Admittedly it's not shiny and it's just made for demonstration purposes, the starter templates will show you how to use the template variables or port another theme to support gisture.
+
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/26198477/139580092-759947a6-d3f1-4f05-843b-fa7a7a6fa190.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/26198477/139580109-128ab3b2-18dd-4106-92b5-b5d4ec5d9631.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/26198477/139580104-37b8e494-b32e-4112-bfda-1d78cc978c0d.png"></td>
+   </tr>
+</table>
+
 ### Template Files
 
 - `index.html` - The homepage.
