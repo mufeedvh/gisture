@@ -8,7 +8,7 @@ pub(crate) struct Cache {
     pub updated_at: String,
 }
 
-// NOTE: cache function calls are blocked (forced sync)
+// NOTE: cache function calls are blocking (forced sync)
 impl Cache {
     /// Save a blog entry to disk cache
     pub async fn save_cache_entry(&self) -> Result<(), cacache::Error> {
