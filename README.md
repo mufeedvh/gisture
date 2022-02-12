@@ -167,11 +167,3 @@ Licensed under the MIT License, see <a href="https://github.com/mufeedvh/gisture
 2. Why are the Handlebars variables unescaped?
 
 > It's Markdown converted to HTML so it needs to be unescaped and one does not simply XSS their own blog.
-
-## Liked the project?
-
-Support the author by buying him a coffee!
-
-<a href="https://www.buymeacoffee.com/mufeedvh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="45" width="170"></a>
-
----
